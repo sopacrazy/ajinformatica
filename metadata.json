@@ -1,0 +1,7 @@
+{
+  "name": "AJ Informática - Tecnologia e Impressão",
+  "description": "Website profissional para AJ Informática, especializada em venda de impressoras, manutenção, recarga de toner e suprimentos de informática.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
